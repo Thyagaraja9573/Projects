@@ -1,0 +1,50 @@
+('Current String :', 'makemeemekam')
+('Longest Palindrome :', 'makemeemekam')
+['racecars', 'tracecar']
+['traceca', 'racecar', 'acecars']
+('Current String :', 'racecar')
+('Longest Palindrome :', 'racecar')
+('Current String :', 'forsesrof')
+('Longest Palindrome :', 'forsesrof')
+['illion', 'millio']
+['milli', 'illio', 'llion']
+['mill', 'illi', 'llio', 'lion']
+('Current String :', 'illi')
+('Longest Palindrome :', 'illi')
+('Current String :', 'amanaplanacanalpanama')
+('Longest Palindrome :', 'amanaplanacanalpanama')
+('Current String :', '100001')
+('Longest Palindrome :', '100001')
+('Current String :', 'racecar')
+('Longest Palindrome :', 'racecar')
+['ce', 'ac']
+['a', 'c', 'e']
+('Current String :', 'a')
+('Longest Palindrome :', 'a')
+['ace', 'bac']
+['ba', 'ac', 'ce']
+['b', 'a', 'c', 'e']
+('Current String :', 'b')
+('Longest Palindrome :', 'b')
+['ace', 'fac']
+['fa', 'ac', 'ce']
+['f', 'a', 'c', 'e']
+('Current String :', 'f')
+('Longest Palindrome :', 'f')
+['aceca', 'facec']
+('Current String :', 'aceca')
+('Longest Palindrome :', 'aceca')
+['99129b', 'b99129']
+['b9912', '99129', '9129b']
+['b991', '9912', '9129', '129b']
+['b99', '991', '912', '129', '29b']
+['b9', '99', '91', '12', '29', '9b']
+('Current String :', '99')
+('Longest Palindrome :', '99')
+('Current String :', 'aa')
+('Longest Palindrome :', 'aa')
+['bcdefgaazyxyw', 'abcdefgaazyxy']
+['abcdefgaazyx', 'bcdefgaazyxy', 'cdefgaazyxyw']
+['abcdefgaazy', 'bcdefgaazyx', 'cdefgaazyxy', 'defgaazyxyw']
+['abcdefgaaz', 'bcdefgaazy', 'cdefgaazyx', 'defgaazyxy', 'efgaazyxyw']
+['abcdefgaa', 'bcdefgaaz', 'cdefgaazy', 'defgaazyx', 'efgaazyxy', 'fgaazyxyw']
